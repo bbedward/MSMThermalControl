@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Faith</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Fragment Titles -->
+    <string name="settings_frag_title">MSM Thermal Settings</string>
+
+    <!-- Misc -->
+    <string name="loading_text">Loading</string>
+    <string name="title_activity_msmthermal_main">MSM Thermal Settings</string>
+</resources>
